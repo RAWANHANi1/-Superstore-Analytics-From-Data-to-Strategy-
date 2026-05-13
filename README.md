@@ -48,4 +48,3 @@ Operational Excellence: Since shipping time is consistent across categories (Mod
 
 
 Prepared by: Rawan Hani Khaled Ahmed
-Project for: CodAlpha Analsis Internship
